@@ -9,20 +9,20 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="KvIce.svg"
+   sodipodi:docname="KvIcesolid.svg"
    inkscape:version="0.92.2 2405546, 2018-03-11"
    id="svg2"
    height="354mm"
    version="1.0"
    width="200mm">
   <sodipodi:namedview
-     inkscape:current-layer="svg2"
+     inkscape:current-layer="g161"
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="852.94628"
-     inkscape:cx="259.2263"
-     inkscape:zoom="0.70710675"
+     inkscape:cy="1219.2866"
+     inkscape:cx="481.49059"
+     inkscape:zoom="11.313708"
      showgrid="false"
      id="namedview967"
      inkscape:window-height="1026"
@@ -1856,23 +1856,11 @@
          id="stop4968" />
       <stop
          id="stop2133"
-         style="stop-color:#e1e1e1;stop-opacity:0.8"
+         style="stop-color:#f6f6f6;stop-opacity:1"
          offset="0.00499436" />
       <stop
-         offset="0.05455434"
-         style="stop-color:#e1e1e1;stop-opacity:0.8"
-         id="stop2119" />
-      <stop
-         id="stop2121"
-         style="stop-color:#e1e1e1;stop-opacity:0.70588235;"
-         offset="0.16366836" />
-      <stop
-         id="stop4850"
-         style="stop-color:#e1e1e1;stop-opacity:0.7"
-         offset="0.69119239" />
-      <stop
          offset="1"
-         style="stop-color:#e1e1e1;stop-opacity:1"
+         style="stop-color:#f6f6f6;stop-opacity:1"
          id="stop4970" />
     </linearGradient>
     <linearGradient
@@ -2455,7 +2443,7 @@
     <path
        d="m 245,86.2484 a 5,5 0 0 1 -10,0 5,5 0 1 1 10,0 z"
        id="toolbar-handle"
-       style="fill-opacity:0.23500001"
+       style="opacity:0;fill-opacity:0.23500001"
        inkscape:connector-curvature="0" />
     <rect
        id="menubar-normal-bottom"
@@ -7399,11 +7387,11 @@
      style="fill:url(#linearGradient4972);stroke:none"
      id="window-normal" />
   <g
-     transform="translate(243.64424,12.799776)"
+     transform="translate(231.11712,2.4380862)"
      id="mdi-menu-normal"
-     style="fill-rule:evenodd;fill:#ffffff;fill-opacity:1">
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd">
     <g
-       style="fill-rule:evenodd;fill:#ffffff;fill-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd"
        id="mdi-minimize-normal-6"
        transform="translate(190,75)"
        inkscape:label="rect5101">
@@ -7418,7 +7406,7 @@
   <g
      style="fill-rule:evenodd"
      id="mdi-close-normal"
-     transform="translate(295.33516,120.81651)">
+     transform="translate(282.80804,110.45481)">
     <circle
        cx="225"
        cy="460"
@@ -7434,7 +7422,7 @@
   <g
      style="fill-rule:evenodd"
      id="mdi-close-focused"
-     transform="translate(295.33516,164.81651)">
+     transform="translate(282.80804,154.45481)">
     <circle
        cx="225"
        cy="460"
@@ -7454,7 +7442,7 @@
      height="100%"
      id="mdi-close-pressed"
      xlink:href="#mdi-close-focused"
-     transform="translate(6.6714465e-6,41.999999)" />
+     transform="translate(5.1217005e-6,41.999997)" />
   <use
      width="100%"
      x="0"
@@ -7462,11 +7450,11 @@
      height="100%"
      id="mdi-close-disabled"
      xlink:href="#mdi-close-normal"
-     transform="translate(6.6714465e-6,130)" />
+     transform="translate(5.1217005e-6,130)" />
   <g
      style="fill-rule:evenodd"
      id="mdi-restore-normal"
-     transform="translate(133.33516,122.81651)">
+     transform="translate(120.80803,112.45481)">
     <circle
        cx="225"
        cy="460"
@@ -7485,7 +7473,7 @@
   <g
      style="fill-rule:evenodd"
      id="mdi-maximize-normal"
-     transform="translate(49.335157,120.81651)">
+     transform="translate(36.808032,110.45481)">
     <circle
        cx="225"
        cy="460"
@@ -7501,7 +7489,7 @@
   <g
      style="fill-rule:evenodd"
      id="mdi-minimize-normal"
-     transform="translate(213.33516,120.81651)">
+     transform="translate(200.80804,110.45481)">
     <circle
        cx="225"
        cy="460"
@@ -7521,11 +7509,11 @@
      height="100%"
      xlink:href="#mdi-minimize-normal"
      id="mdi-shade-normal"
-     transform="translate(150,-2.1095178e-6)" />
+     transform="translate(150,-3.7728427e-6)" />
   <g
      style="fill-rule:evenodd"
      id="mdi-maximize-focused"
-     transform="translate(49.335157,168.81651)">
+     transform="translate(36.808032,158.45481)">
     <circle
        cx="225"
        cy="460"
@@ -7541,7 +7529,7 @@
   <g
      style="fill-rule:evenodd"
      id="mdi-minimize-focused"
-     transform="translate(213.33516,168.81651)">
+     transform="translate(200.80804,158.45481)">
     <circle
        cx="225"
        cy="460"
@@ -7561,7 +7549,7 @@
      height="100%"
      xlink:href="#mdi-minimize-focused"
      id="mdi-shade-focused"
-     transform="translate(150,-2.1095178e-6)" />
+     transform="translate(150,-3.7728427e-6)" />
   <use
      width="100%"
      x="0"
@@ -7569,7 +7557,7 @@
      height="100%"
      xlink:href="#mdi-minimize-focused"
      id="mdi-minimize-pressed"
-     transform="translate(6.6714465e-6,37.999999)" />
+     transform="translate(5.1217005e-6,37.999997)" />
   <use
      width="100%"
      x="0"
@@ -7577,7 +7565,7 @@
      height="100%"
      xlink:href="#mdi-minimize-focused"
      id="mdi-shade-pressed"
-     transform="translate(150,37.999999)" />
+     transform="translate(150,37.999997)" />
   <use
      width="100%"
      x="0"
@@ -7585,7 +7573,7 @@
      height="100%"
      xlink:href="#mdi-maximize-focused"
      id="mdi-maximize-pressed"
-     transform="translate(6.6714465e-6,37.999999)" />
+     transform="translate(5.1217005e-6,37.999997)" />
   <use
      width="100%"
      x="0"
@@ -7593,7 +7581,7 @@
      height="100%"
      xlink:href="#mdi-maximize-normal"
      id="mdi-maximize-disabled"
-     transform="translate(6.6714465e-6,134)" />
+     transform="translate(5.1217005e-6,134)" />
   <use
      width="100%"
      x="0"
@@ -7601,7 +7589,7 @@
      height="100%"
      xlink:href="#mdi-restore-normal"
      id="mdi-restore-disabled"
-     transform="translate(6.6714465e-6,130)" />
+     transform="translate(5.1217005e-6,130)" />
   <use
      width="100%"
      x="0"
@@ -7609,11 +7597,11 @@
      height="100%"
      xlink:href="#mdi-minimize-normal"
      id="mdi-minimize-disabled"
-     transform="translate(6.6714465e-6,132)" />
+     transform="translate(5.1217005e-6,132)" />
   <g
      style="fill-rule:evenodd"
      id="mdi-restore-focused"
-     transform="translate(133.33516,168.81651)">
+     transform="translate(120.80803,158.45481)">
     <circle
        cx="225"
        cy="460"
@@ -7636,7 +7624,7 @@
      height="100%"
      xlink:href="#mdi-restore-focused"
      id="mdi-restore-pressed"
-     transform="translate(6.6714465e-6,37.999999)" />
+     transform="translate(5.1217005e-6,37.999997)" />
   <use
      width="100%"
      x="0"

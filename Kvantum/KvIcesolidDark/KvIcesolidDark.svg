@@ -9,20 +9,20 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="KvIceDark.svg"
+   sodipodi:docname="KvIcesolidDark.svg"
    inkscape:version="0.92.2 2405546, 2018-03-11"
    id="svg2"
    height="354mm"
    version="1.0"
    width="200mm">
   <sodipodi:namedview
-     inkscape:current-layer="svg2"
+     inkscape:current-layer="g161"
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="628.93357"
-     inkscape:cx="393.46926"
-     inkscape:zoom="0.70710675"
+     inkscape:cy="1214.5219"
+     inkscape:cx="426.97028"
+     inkscape:zoom="5.656854"
      showgrid="false"
      id="namedview967"
      inkscape:window-height="1026"
@@ -41,13 +41,12 @@
      inkscape:snap-nodes="true"
      inkscape:snap-others="false"
      inkscape:snap-bbox="true"
-     inkscape:bbox-paths="true"
+     inkscape:bbox-paths="false"
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-midpoints="true"
      inkscape:snap-intersection-paths="false"
-     inkscape:snap-smooth-nodes="true"
-     inkscape:snap-global="true" />
+     inkscape:snap-smooth-nodes="true" />
   <metadata
      id="metadata969">
     <rdf:RDF>
@@ -1833,20 +1832,8 @@
          id="stop4968" />
       <stop
          id="stop2133"
-         style="stop-color:#333333;stop-opacity:0.80000001"
+         style="stop-color:#333333;stop-opacity:1"
          offset="0.00720407" />
-      <stop
-         offset="0.05455434"
-         style="stop-color:#333333;stop-opacity:0.80000001"
-         id="stop2119" />
-      <stop
-         id="stop2121"
-         style="stop-color:#333333;stop-opacity:0.70588237"
-         offset="0.16366836" />
-      <stop
-         id="stop4850"
-         style="stop-color:#333333;stop-opacity:0.69803923"
-         offset="0.69119239" />
       <stop
          offset="1"
          style="stop-color:#333333;stop-opacity:1"
@@ -2751,7 +2738,7 @@
     <path
        d="m 245,86.2484 a 5,5 0 0 1 -10,0 5,5 0 1 1 10,0 z"
        id="toolbar-handle"
-       style="fill-opacity:0.23500001"
+       style="fill-opacity:0.23500001;opacity:0"
        inkscape:connector-curvature="0" />
     <rect
        id="menubar-normal-bottom"
@@ -3068,23 +3055,6 @@
        y="1069"
        x="210"
        width="5" />
-  </g>
-  <g
-     transform="translate(239,24.330763)"
-     id="mdi-menu-normal"
-     style="fill-rule:evenodd">
-    <g
-       style="fill-rule:evenodd"
-       id="mdi-minimize-normal-6"
-       transform="translate(190,75)"
-       inkscape:label="rect5101">
-      <circle
-         cx="225"
-         cy="460"
-         style="fill:#5a5a5a;fill-opacity:1"
-         id="circle1746-7"
-         r="16" />
-    </g>
   </g>
   <g
      id="slider-normal-topleft"
@@ -6319,7 +6289,7 @@
          id="menu-shadow-top"
          transform="translate(136,-298.75012)">
         <path
-           style="opacity:0.85;fill:#101010;fill-opacity:1"
+           style="opacity:0.7;fill:#333333;fill-opacity:1"
            id="path6514"
            d="m -104,1083.75 h 48 v 8 h -48 z"
            inkscape:connector-curvature="0" />
@@ -6337,7 +6307,7 @@
            x="-109"
            y="1091.7501"
            height="48"
-           style="opacity:0.85;fill:#101010;fill-opacity:1;stroke-width:0.99999994"
+           style="opacity:0.7;fill:#333333;fill-opacity:1;stroke-width:0.99999994"
            id="rect6520" />
         <path
            style="opacity:0.3;fill:url(#linearGradient6752);fill-opacity:1"
@@ -6353,7 +6323,7 @@
            x="-56"
            y="1091.7501"
            height="48"
-           style="opacity:0.85;fill:#101010;fill-opacity:1;stroke-width:1"
+           style="opacity:0.7;fill:#333333;fill-opacity:1;stroke-width:1"
            id="rect6526" />
         <path
            style="opacity:0.3;fill:url(#linearGradient6748);fill-opacity:1"
@@ -6369,7 +6339,7 @@
            x="-104"
            y="1139.75"
            height="5"
-           style="opacity:0.85;fill:#101010;fill-opacity:1"
+           style="opacity:0.7;fill:#333333;fill-opacity:1"
            id="rect6534" />
         <path
            style="opacity:0.3;fill:url(#linearGradient6750);fill-opacity:1"
@@ -6381,7 +6351,7 @@
          id="menu-shadow-topleft"
          transform="translate(136,-298.75012)">
         <path
-           style="opacity:0.85;fill:#101010;fill-opacity:1"
+           style="opacity:0.7;fill:#333333;fill-opacity:1"
            id="path6540"
            d="m -104,1083.7501 c -1.499,0 -5,2.25 -5,4.7612 v 3.2388 h 5 z"
            inkscape:connector-curvature="0" />
@@ -6395,7 +6365,7 @@
          id="menu-shadow-topright"
          transform="translate(136,-298.75012)">
         <path
-           style="opacity:0.85;fill:#101010;fill-opacity:1"
+           style="opacity:0.7;fill:#333333;fill-opacity:1"
            id="path6546"
            d="m -56,1083.7501 v 8 h 5 v -3.2388 c 10e-4,-2.5112 -3.62466,-4.7613 -5,-4.7612 z"
            inkscape:connector-curvature="0" />
@@ -6409,7 +6379,7 @@
          id="menu-shadow-bottomleft"
          transform="translate(136,-298.75012)">
         <path
-           style="opacity:0.85;fill:#101010;fill-opacity:1"
+           style="opacity:0.7;fill:#333333;fill-opacity:1"
            id="path6552"
            d="m -109,1139.7501 c 0,2.77 2.23001,5 5,5 v -5 z"
            inkscape:connector-curvature="0" />
@@ -6423,7 +6393,7 @@
          id="menu-shadow-bottomright"
          transform="translate(136,-298.75012)">
         <path
-           style="opacity:0.85;fill:#101010;fill-opacity:1"
+           style="opacity:0.7;fill:#333333;fill-opacity:1"
            id="path6559"
            d="m -56,1139.7501 v 5 c 2.77,0 5,-2.23 5,-5 z"
            inkscape:connector-curvature="0" />
@@ -6467,7 +6437,7 @@
   </g>
   <path
      inkscape:connector-curvature="0"
-     style="opacity:0.85;fill:#101010;fill-opacity:1;fill-rule:evenodd;stroke:none"
+     style="opacity:0.7;fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:none"
      id="menu-normal"
      d="m 257.00006,820.33082 h 48 v 48 h -48 z" />
   <g
@@ -8166,9 +8136,26 @@
        inkscape:connector-curvature="0" />
   </g>
   <g
+     transform="translate(223.84525,25.527698)"
+     id="mdi-menu-normal"
+     style="fill-rule:evenodd">
+    <g
+       style="fill-rule:evenodd"
+       id="mdi-minimize-normal-6"
+       transform="translate(190,75)"
+       inkscape:label="rect5101">
+      <circle
+         cx="225"
+         cy="460"
+         style="fill:#5a5a5a;fill-opacity:1"
+         id="circle1746-7"
+         r="16" />
+    </g>
+  </g>
+  <g
      style="fill-rule:evenodd"
      id="mdi-close-normal"
-     transform="translate(291.09252,108.79568)">
+     transform="translate(275.93777,109.99262)">
     <circle
        cx="225"
        cy="460"
@@ -8184,7 +8171,7 @@
   <g
      style="fill-rule:evenodd"
      id="mdi-close-focused"
-     transform="translate(291.09252,152.79568)">
+     transform="translate(275.93777,153.99262)">
     <circle
        cx="225"
        cy="460"
@@ -8204,7 +8191,7 @@
      height="100%"
      id="mdi-close-pressed"
      xlink:href="#mdi-close-focused"
-     transform="translate(5.469165e-6,42.000004)" />
+     transform="translate(8.2799995e-6,42.00001)" />
   <use
      width="100%"
      x="0"
@@ -8212,11 +8199,11 @@
      height="100%"
      id="mdi-close-disabled"
      xlink:href="#mdi-close-normal"
-     transform="translate(5.469165e-6,130)" />
+     transform="translate(8.2799995e-6,130)" />
   <g
      style="fill-rule:evenodd"
      id="mdi-restore-normal"
-     transform="translate(129.09252,110.79568)">
+     transform="translate(113.93776,111.99262)">
     <circle
        cx="225"
        cy="460"
@@ -8228,14 +8215,14 @@
        x="453.00018"
        y="-232"
        height="14"
-       style="fill:none;stroke:#404040;stroke-width:4;fill-opacity:1;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#404040;stroke-width:4;stroke-opacity:1"
        id="rect5003"
        transform="rotate(90)" />
   </g>
   <g
      style="fill-rule:evenodd"
      id="mdi-maximize-normal"
-     transform="translate(45.092516,108.79568)">
+     transform="translate(29.937758,109.99262)">
     <circle
        cx="225"
        cy="460"
@@ -8251,7 +8238,7 @@
   <g
      style="fill-rule:evenodd"
      id="mdi-minimize-normal"
-     transform="translate(209.09252,108.79568)">
+     transform="translate(193.93777,109.99262)">
     <circle
        cx="225"
        cy="460"
@@ -8271,12 +8258,12 @@
      height="100%"
      xlink:href="#mdi-minimize-normal"
      id="mdi-shade-normal"
-     transform="translate(150,3.8780459e-6)"
+     transform="translate(150,1.0012e-5)"
      style="fill:#5a5a5a;fill-opacity:1" />
   <g
      style="fill-rule:evenodd"
      id="mdi-maximize-focused"
-     transform="translate(45.092516,156.79568)">
+     transform="translate(29.937758,157.99262)">
     <circle
        cx="225"
        cy="460"
@@ -8292,7 +8279,7 @@
   <g
      style="fill-rule:evenodd"
      id="mdi-minimize-focused"
-     transform="translate(209.09252,156.79568)">
+     transform="translate(193.93777,157.99262)">
     <circle
        cx="225"
        cy="460"
@@ -8312,7 +8299,7 @@
      height="100%"
      xlink:href="#mdi-minimize-focused"
      id="mdi-shade-focused"
-     transform="translate(150,3.8780459e-6)" />
+     transform="translate(150,1.0012e-5)" />
   <use
      width="100%"
      x="0"
@@ -8320,7 +8307,7 @@
      height="100%"
      xlink:href="#mdi-minimize-focused"
      id="mdi-minimize-pressed"
-     transform="translate(5.469165e-6,38.000004)" />
+     transform="translate(8.2799995e-6,38.00001)" />
   <use
      width="100%"
      x="0"
@@ -8328,7 +8315,7 @@
      height="100%"
      xlink:href="#mdi-minimize-focused"
      id="mdi-shade-pressed"
-     transform="translate(150,38.000004)" />
+     transform="translate(150,38.00001)" />
   <use
      width="100%"
      x="0"
@@ -8336,7 +8323,7 @@
      height="100%"
      xlink:href="#mdi-maximize-focused"
      id="mdi-maximize-pressed"
-     transform="translate(5.469165e-6,38.000004)" />
+     transform="translate(8.2799995e-6,38.00001)" />
   <use
      width="100%"
      x="0"
@@ -8344,7 +8331,7 @@
      height="100%"
      xlink:href="#mdi-maximize-normal"
      id="mdi-maximize-disabled"
-     transform="translate(5.469165e-6,134)" />
+     transform="translate(8.2799995e-6,134)" />
   <use
      width="100%"
      x="0"
@@ -8352,7 +8339,7 @@
      height="100%"
      xlink:href="#mdi-restore-normal"
      id="mdi-restore-disabled"
-     transform="translate(5.469165e-6,130)" />
+     transform="translate(8.2799995e-6,130)" />
   <use
      width="100%"
      x="0"
@@ -8360,11 +8347,11 @@
      height="100%"
      xlink:href="#mdi-minimize-normal"
      id="mdi-minimize-disabled"
-     transform="translate(5.469165e-6,132)" />
+     transform="translate(8.2799995e-6,132)" />
   <g
      style="fill-rule:evenodd"
      id="mdi-restore-focused"
-     transform="translate(129.09252,156.79568)">
+     transform="translate(113.93776,157.99262)">
     <circle
        cx="225"
        cy="460"
@@ -8387,7 +8374,7 @@
      height="100%"
      xlink:href="#mdi-restore-focused"
      id="mdi-restore-pressed"
-     transform="translate(5.469165e-6,38.000004)" />
+     transform="translate(8.2799995e-6,38.00001)" />
   <use
      width="100%"
      x="0"
