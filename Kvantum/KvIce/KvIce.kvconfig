@@ -240,7 +240,7 @@ indicator.element=resize-grip
 [Toolbar]
 inherits=PanelButtonCommand
 indicator.element=toolbar
-indicator.size=0
+indicator.size=10
 text.margin=0
 interior.element=tolba
 frame.element=tolba
