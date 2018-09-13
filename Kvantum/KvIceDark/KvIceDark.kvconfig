@@ -64,8 +64,8 @@ button.text.color=#ecececc8
 disabled.text.color=#ececec73
 tooltip.text.color=#333333
 highlight.text.color=#333333
-link.color=#0057AE
-link.visited.color=#452886
+link.color=#5294e2
+link.visited.color=#40057ae
 progress.indicator.text.color=#f6f6f6
 
 [Hacks]
